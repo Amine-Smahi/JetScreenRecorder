@@ -1,5 +1,17 @@
 # JetScreenRecorder
-A simple screen capture video recorder using the AfrogeNet ffmpeg DLL and windows forms with a flat ui.
+JetScreenRecorder is a free open source screen capture video recorder with a simple user interface and flat ui components to bring the best user experience.
+
+
+### Why JetScreenRecorder
+
+Videos are excellent tools for visual and auditory learners. They can be used to:
+* demonstrate processes step-by-step in a tutorial
+* demonstrate software to other people or record tips and tricks for later reference
+* share pointers for playing a game
+* record product reviews
+* record recurring problems with your computer to show tech support 
+
+Completed videos may be uploaded to YouTube, posted on web pages or social media, and/or uploaded to e-Learning courses.
 
 ### Features :
 * multiple choice of video recording codec ( MPEG4 , WMV , FLV .... ).
@@ -8,6 +20,8 @@ A simple screen capture video recorder using the AfrogeNet ffmpeg DLL and window
 * change the fps number to your taste.
 * easy to use.
 * flat ui components
+* no ads or sharing personal informations of any kind
+* lightweight ( less then 8mo )
 
 ### Download :
 
@@ -31,3 +45,8 @@ Download the <a href="https://github.com/Amine-Smahi/JetScreenRecorder/blob/mast
 
 ![Jet Screen Recorder c# source flat amine smahi](https://user-images.githubusercontent.com/24621701/27015379-35bd6888-4ec1-11e7-8155-0cc7f711ed6a.png)
 
+### Technologies :
+
+* AfrogeNet ffmpeg DLLs ( download the package from http://aforgenet.com/framework/downloads.html )
+* Windows Forms.
+* Csharp ( c# ) programming language.
