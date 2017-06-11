@@ -11,7 +11,7 @@ A simple screen capture video recorder using the AfrogeNet ffmpeg DLL and window
 
 ### Download :
 
-Download the <a href="" >JetScreenRecorder(beta) Installer Now</a>
+Download the <a href="https://github.com/Amine-Smahi/JetScreenRecorder/blob/master/JetScreenRocorderInstaller.zip" >JetScreenRecorder(beta) Installer Now</a>
 
 ### Some Screenshots :
 
