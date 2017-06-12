@@ -50,3 +50,8 @@ Download the <a href="https://github.com/Amine-Smahi/JetScreenRecorder/blob/mast
 * AfrogeNet ffmpeg DLLs ( download the package from http://aforgenet.com/framework/downloads.html )
 * Windows Forms.
 * Csharp ( c# ) programming language.
+
+### Credits
+
+The studio : [JetLight Studio](https://github.com/JetLightStudio)
+The developer : [Amine Smahi](https://github.com/Amine-Smahi)
